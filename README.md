@@ -28,8 +28,6 @@ It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 <img width="1080" height="1016" alt="Screenshot 2025-09-13 140124" src="https://github.com/user-attachments/assets/c51ece77-ac5e-4d47-ac85-6934a173f5d9" />
 
-<img width="1917" height="1018" alt="Screenshot 2025-09-13 140626" src="https://github.com/user-attachments/assets/e47c5d66-8dfc-4c88-be24-87d9d0d0baff" />
-
 <img width="1918" height="907" alt="Screenshot 2025-09-13 142645" src="https://github.com/user-attachments/assets/35c65d3a-2000-4057-9f5e-02485e0f53fe" />
 
 ## RESULT:
