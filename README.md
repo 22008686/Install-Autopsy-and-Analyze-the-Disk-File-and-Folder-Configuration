@@ -23,15 +23,13 @@ autopsy
 It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/3e808d35-27d4-48ba-90c5-6ecc2ea192a0" />
-<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/6ea47927-7cbe-40ac-82c0-f05f7deddad9" />
+<img width="1905" height="1016" alt="Screenshot 2025-09-13 135310" src="https://github.com/user-attachments/assets/f8542c59-49f6-475f-86fa-6ae9d5e35b62" />
 
-<img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/b5533c37-b318-44ff-8a7b-b1bf023b7340" />
+<img width="1739" height="918" alt="Screenshot 2025-08-14 141246" src="https://github.com/user-attachments/assets/a36435b9-db01-45eb-8df8-4d8162657087" />
 
-<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/af7cef35-ec2b-4187-8a3b-7453574d133d" />
+<img width="1080" height="1016" alt="Screenshot 2025-09-13 140124" src="https://github.com/user-attachments/assets/c51ece77-ac5e-4d47-ac85-6934a173f5d9" />
 
-
-
+<img width="1917" height="1018" alt="Screenshot 2025-09-13 140626" src="https://github.com/user-attachments/assets/e47c5d66-8dfc-4c88-be24-87d9d0d0baff" />
 
 
 ## RESULT:
