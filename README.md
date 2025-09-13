@@ -30,6 +30,7 @@ It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 <img width="1917" height="1018" alt="Screenshot 2025-09-13 140626" src="https://github.com/user-attachments/assets/e47c5d66-8dfc-4c88-be24-87d9d0d0baff" />
 
+<img width="1918" height="907" alt="Screenshot 2025-09-13 142645" src="https://github.com/user-attachments/assets/35c65d3a-2000-4057-9f5e-02485e0f53fe" />
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
